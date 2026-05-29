@@ -102,9 +102,6 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 📚 Embedded Systems
 
 
-## 🐍 Contribution Graph
-
-!(https://raw.githubusercontent.com/Haridarshan86/Haridarshan86/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
