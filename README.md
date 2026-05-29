@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Electronics+%26+Communication+Engineer;Verilog+HDL+%7C+VLSI+Design;IoT+Developer;LTspice+Simulation+Enthusiast;MIPS+%26+RISC-V+Architecture;Smart+India+Hackathon+Participant" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Electronics+%26+Communication+Engineer;Verilog+HDL+%7C+VLSI+Design;IoT+Developer;LTspice+Simulation+Enthusiast;MIPS+%26+RISC-V+Architecture;Smart+India+Hackathon+Finalist" />
 
 <h1 align="center">Hi 👋, I'm Haridarshan B Kunder</h1>
 
@@ -61,9 +61,6 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haridarshan86&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haridarshan86&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haridarshan86)
 
