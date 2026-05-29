@@ -11,7 +11,7 @@ Passionate about building intelligent systems that combine Hardware, Embedded Sy
 </p>
 
 <img align="right" width="350"
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 
 ---
 
