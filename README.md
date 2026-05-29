@@ -104,8 +104,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Haridarshan86/Haridarshan86/blob/output/github-contribution-grid-snake.svg)
----
+!(https://raw.githubusercontent.com/Haridarshan86/Haridarshan86/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
