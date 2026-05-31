@@ -10,7 +10,7 @@ Electronics & Communication Engineering Student | Hardware Enthusiast
 Passionate about building intelligent systems that combine Hardware, Embedded Systems, IoT and Digital Design.
 </p>
 
-<img align="right" width="350"
+
 
 
 ---
